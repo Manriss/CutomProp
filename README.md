@@ -10,4 +10,7 @@ Run Navis!
 
 Go to View/Windows and activate the plugin VISOR PROPIEDADES (V1.00) Navisworks2019
 
+I am not a professional programmer, I am self-taught and a BIM enthusiast.
+
+Use the plugin at your own risk
 
